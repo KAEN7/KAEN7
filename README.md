@@ -7,7 +7,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-d00000?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-1a759f?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
 
 <br>
