@@ -21,5 +21,5 @@
 <h3 align="center">-- MY BLOG --</h3>
 
 <p align="center">
-<a href="https://velog.io/@kusdsuna"><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
+<a href="https://kusdsuna.tistory.com/"><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
 </p>
