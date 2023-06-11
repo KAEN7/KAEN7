@@ -5,9 +5,9 @@
   <br />
 
   <p herf="https://kusdsuna.tistory.com/">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,recoil,figma,git,aws,styledcomponents,vercel&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,recoil,figma,git,aws,styledcomponents,nodejs,vercel&perline=3"/>
   </p>
-  <!-- jest,nodejs,flutter  -->
+  <!-- jest,flutter  -->
 
   <br />
   <br />
@@ -15,10 +15,10 @@
   <div>
 
     Experience
-    React, JS, Styled-components
+    React, JavaScript, Styled-components
 
     Knowledgeable
-    TS, Next.js, Recoil, Redux-toolkit
+    TypeScript, Next.js, Recoil, Redux-toolkit, Node.js
 
     Others / Tools
     Git, Jira, Confluence, Notion, Figma
